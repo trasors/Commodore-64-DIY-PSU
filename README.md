@@ -8,7 +8,7 @@ This project is provided *as-is* and is not maintained. The schematics in this r
 
 ## Block diagram
 
-![Block diagram](images/psu-block-diagram.svg)
+![Block diagram](images/psu-block-diagram.jpg)
 
 ## Bill of materials
 
