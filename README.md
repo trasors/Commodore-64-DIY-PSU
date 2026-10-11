@@ -24,4 +24,6 @@ This project is provided *as-is* and is not maintained. The schematics in this r
 
 ![Top](images/top.jpg)
 ![IEC connector](images/iec.jpg)
+| | |
+|---|---|
 | ![DIN front](images/din.jpg) | ![DIN back](images/din-back.jpg) |
