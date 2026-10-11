@@ -4,7 +4,7 @@ A simple to build DIY PSU for a C64. There is an assumption you have an understa
 
 ## Disclaimer
 
-This project is provided *as-is* and is not maintained. The schematics in this repository are for educational and experimental purposes only. Working with electricity, mains voltage, and high-power circuits is dangerous and can result in severe injury, electrocution, or fire. The author(s) assume no responsibility or liability for any errors, damage, or injury caused by the construction, modification, or use of this design. Build and use at your own risk.
+This project is provided *as-is* and is not maintained. The schematics in this repository are for educational and experimental purposes only. Working with electricity, mains voltage, and high-power circuits is dangerous and can result in severe injury, electrocution, or fire. The author assumes no responsibility or liability for any errors, damage, or injury caused by the construction, modification, or use of this design. Build and use at your own risk.
 
 ## Block diagram
 
